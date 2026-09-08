@@ -1,5 +1,5 @@
 # Ciallo~ Aemeath
-![爱弥斯](https://cdn.jsdmirror.com/gh/whr-glitch/whr-glitch@main/assets/gif/ameath480.gif)  
+![爱弥斯](https://github.com/whr-glitch/whr-glitch/blob/main/assets/gif/ameath480.gif)  
 
 💜🤍🩷/Hufflepuff / infj / Seeker of light, keeper of heart.
 
